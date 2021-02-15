@@ -2,7 +2,7 @@ const { merge } = require('webpack-merge');
 const commons = require('./commons');
 const CommonsConfig = require('./webpack.commons');
 const apiUrl = 'https://5f5ff7f790cf8d00165573ed.mockapi.io/';
-const baseUrl = 'http://localhost:9000'
+const baseUrl = 'https://gngor-ff.herokuapp.com/';
 
 module.exports = merge(CommonsConfig, {
   module: {
