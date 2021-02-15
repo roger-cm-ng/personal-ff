@@ -15,7 +15,6 @@
   "author": "Roger",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.13",
     "@babel/preset-react": "^7.12.13",
     "@babel/preset-typescript": "^7.12.13",
@@ -66,6 +65,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
+    "@babel/core": "^7.12.16",
     "@babel/node": "^7.12.16",
     "axios": "^0.21.1",
     "classnames": "^2.2.6",
