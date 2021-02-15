@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`planets reducer should update the state with acquired data when type is PLANETS_FETCHED 1`] = `
+Array [
+  Object {
+    "distance": 100,
+    "isChosen": false,
+    "name": "Donlon",
+  },
+  Object {
+    "distance": 200,
+    "isChosen": false,
+    "name": "Enchai",
+  },
+  Object {
+    "distance": 300,
+    "isChosen": false,
+    "name": "Jebing",
+  },
+  Object {
+    "distance": 400,
+    "isChosen": false,
+    "name": "Sapir",
+  },
+  Object {
+    "distance": 500,
+    "isChosen": false,
+    "name": "Lerbin",
+  },
+  Object {
+    "distance": 600,
+    "isChosen": false,
+    "name": "Pingasor",
+  },
+]
+`;

@@ -1,0 +1,36 @@
+@import "../../styles/variables.scss";
+
+.results {
+  padding: 20px;
+
+  h1,
+  h2,
+  h4 {
+    text-align: center;
+  }
+
+  h1 {
+    color: yellow;
+  }
+
+  h2 {
+    margin-bottom: 20px;
+  }
+
+  h4 {
+    .planet-name {
+      color: yellow;
+      font-size: $h4;
+    }
+  }
+
+  .btn {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  @media only screen and (min-height: 650px) {
+    height: calc(100vh - 130px);
+  }
+}

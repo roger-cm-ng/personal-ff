@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`token reducer should update the state with acquired data when type is TOKEN_FETCHED 1`] = `
+Object {
+  "token": "12345abcde",
+}
+`;

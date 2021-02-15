@@ -1,0 +1,11 @@
+@import "../../styles/variables.scss";
+
+.time-taken {
+  text-align: center;
+  font-family: 'Nunito-Bold';
+  margin-bottom: 20px;
+  .duration {
+    font-size: $h4;
+    color:yellow;
+  }
+}

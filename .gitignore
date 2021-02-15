@@ -1,0 +1,7 @@
+node_modules
+.idea
+.idea/shelf/
+.idea/workspace.xml
+coverage/
+public/
+.DS_Store

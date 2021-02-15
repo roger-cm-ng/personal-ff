@@ -1,0 +1,11 @@
+@import "../../styles/variables.scss";
+
+.planets {
+  select {
+    height: 30px;
+    background-color: white;
+    font-family: 'Nunito-Bold';
+    font-size: $p;
+    min-width: 120px;
+  }
+}

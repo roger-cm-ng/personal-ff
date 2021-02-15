@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`time taken reducer should update the state with acquired data when type is VEHICLES_FETCHED 1`] = `200`;

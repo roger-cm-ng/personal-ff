@@ -1,0 +1,13 @@
+.vehicles {
+  display: block;
+  margin-top: 10px;
+  cursor: pointer;
+
+  .checked {
+    color: yellow;
+  }
+
+  .disabled {
+    cursor: default;
+  }
+}

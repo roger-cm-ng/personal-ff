@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`vehicles reducer should update the state with acquired data when type is VEHICLES_FETCHED 1`] = `
+Array [
+  Object {
+    "capacity": true,
+    "max_distance": 200,
+    "name": "Space pod",
+    "speed": 2,
+    "total_no": 2,
+    "usage": 0,
+  },
+  Object {
+    "capacity": true,
+    "max_distance": 300,
+    "name": "Space rocket",
+    "speed": 4,
+    "total_no": 1,
+    "usage": 0,
+  },
+  Object {
+    "capacity": true,
+    "max_distance": 400,
+    "name": "Space shuttle",
+    "speed": 5,
+    "total_no": 1,
+    "usage": 0,
+  },
+  Object {
+    "capacity": true,
+    "max_distance": 600,
+    "name": "Space ship",
+    "speed": 10,
+    "total_no": 2,
+    "usage": 0,
+  },
+]
+`;

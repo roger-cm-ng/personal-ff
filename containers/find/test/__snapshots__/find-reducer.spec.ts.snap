@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`find reducer - failure data should update the state with acquired data when type is FALCONE_FOUND 1`] = `
+Object {
+  "status": "false",
+}
+`;
+
+exports[`find reducer - success data should update the state with acquired data when type is FALCONE_FOUND 1`] = `
+Object {
+  "planet_name": "Jebing",
+  "status": "success",
+}
+`;

@@ -1,0 +1,10 @@
+.destinations{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+
+  .destination{
+    margin-bottom: 20px;
+  }
+}

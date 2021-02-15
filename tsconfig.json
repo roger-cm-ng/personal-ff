@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "jsx": "preserve",
+    "target": "es2016",
+    "esModuleInterop": true
+  },
+  "include": [
+    "types/base.types.d.ts",
+    "./types/global.types.d.ts",
+    "./components/**/*",
+    "./test/**/*",
+    "./containers/**/*",
+    "./helpers/**/*"
+  ]
+}
